@@ -1,3 +1,4 @@
+
 html {
   background-color: #f0f0f0;
 }
@@ -28,4 +29,9 @@ ul{
 ol{
 
     list-style: none;
+}
+a{
+  color:#2c383e;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: block;
 }
